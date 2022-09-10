@@ -8,9 +8,8 @@ I'm chris, I'm a full-stack software engineer. I come from a background in busin
 - 🔭 I’m currently writing a novel!
 - 🌱 I’m currently learning C# and MySQL
 <img src="https://user-images.githubusercontent.com/107886286/189499389-2d50e013-67a7-44fe-a931-657083a579ff.gif" height="200" width="auto"/>
-###markdown
-  - I am versed in HTML, CSS, JavaScript, Bootstrap, MVC Pattern, Vue, Auth0, mongoDB and Postman.
-- 💬 Ask me about good books, deep philosophical questions, <!--and your sister-->
-- 📫 How to reach me: ...
+
+  - I am versed in HTML, CSS, JavaScript, Bootstrap, MVC Pattern, Vue, Auth0, mongoDB and Postman
+- 💬 Ask me about good books, deep philosophical questions, and the air-speed-velocity of an unladen swallow<!--and your mom!-->
 - ⚡ Fun fact: ...
 
