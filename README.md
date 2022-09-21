@@ -3,7 +3,7 @@
 <!--
 **chris-hildebrandt/chris-hildebrandt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-I'm chris, I'm a full-stack software engineer. I come from a background in businesses management, philosophy, and ethics.
+I'm chris, I'm a full-stack software developer. I come from a background in businesses management, philosophy, and ethics.
 
 - 🔭 I’m currently writing a novel!
 - 🌱 I’m currently learning C# and MySQL
